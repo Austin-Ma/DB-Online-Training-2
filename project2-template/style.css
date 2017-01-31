@@ -1,4 +1,15 @@
 #map {
 	height: 1000px;
 	width: 1000px;
+	border:5px;
+	border-color: #993333;
+	border-style:solid;
+}
+
+h1{
+	text-align: center;
+}
+
+body{
+	background-color: #e6ffb3;
 }
